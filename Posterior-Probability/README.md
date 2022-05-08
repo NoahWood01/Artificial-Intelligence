@@ -15,4 +15,4 @@ Put in this form:
 Compile with python using `python` `py` or `python3` based on by your settings.
 
 
-`python compute_a_posteriori CLLCCLLLCCL`
+`python compute_a_posteriori.py CLLCCLLLCCL`
